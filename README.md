@@ -31,5 +31,5 @@ I'm a Computer Science student at the Islamic University of Gaza, passionate abo
 
 ### 📫 Connect With Me
 
-- GitHub: [nawaf12006](https://github.com/nawaf12006)
-- LinkedIn: [Nawaf Naim](https://www.linkedin.com/in/nawaf-naim-097833400/)
+- GitHub: [nawaf12006](https://github.com/nawaf230)
+- LinkedIn: [Nawaf Enaim](https://www.linkedin.com/in/nawaf-enaim-097833400/)
