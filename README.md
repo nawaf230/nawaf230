@@ -1,13 +1,13 @@
 
 # Hi, I'm Nawaf Ahmed Enaim 👋
 
-### Flutter Developer
+### Flutter Developer | Computer Science Student
 
-I'm a Computer Science student at the Islamic University of Gaza, passionate about building mobile applications with Flutter and Dart.
+I'm a Computer Science student at the Islamic University of Gaza, passionate about building mobile applications using Flutter and Dart.
 
 - 📱 Focused on Flutter app development
-- 🌐 Learning to integrate REST APIs
-- 🧩 Working with Cubit/BLoC for state management
+- 🌐 Working with REST APIs
+- 🧩 State management with Cubit/BLoC
 - 🏗️ Learning Clean Architecture principles
 - 🔥 Currently learning Firebase and Supabase
 
@@ -33,4 +33,4 @@ I'm a Computer Science student at the Islamic University of Gaza, passionate abo
 
 - GitHub: [nawaf230](https://github.com/nawaf230)
 - LinkedIn: [Nawaf Enaim](https://www.linkedin.com/in/nawaf-enaim-097833400/)
-- Gmail: nawafenaim2@gmail.com
+- Email: [nawafenaim2@gmail.com](mailto:nawafenaim2@gmail.com)
